@@ -1,0 +1,10 @@
+1. Players take turns to play a card, which must match the suit or rank of the previous card played.
+2. You can play two or more cards of the same rank at the same time, but the first one of them must be the same suit or rank as the pile.
+3. If you are unable to play, cards are drawn from the top of the stock pile until a play is possible or the stock is exhausted(the player then passes).
+4. You cannot draw from the stock pile if you have a playable card.
+5. An eight can be played at any time to change the suit to whatever you want.
+6. Playing an ace skips the next players turn.
+7. Playing a Jack reverses the order of play.
+8. Playing a two forces the next player to draw two cards from the stock pile, unless they can counteract it with another two.
+
+When a player gets rid of all of their cards, the game is over and the scores of each hand are added up. Eights are worth 50 points, aces are 1 point, kings are 13 points, queens are 12 points, jacks are 11 points and the other cards are worth their face value.
